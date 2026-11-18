@@ -44,7 +44,7 @@ Development Tools
 
 A healthcare app for booking doctor appointments, video consultations, lab tests, and ordering medicine from an online pharmacy — all from one place.
 
-✅ Instant doctor appointment booking with confirmation alerts
+✅ instant doctor appointment booking with confirmation alerts
 ✅ Video consultations and online-doctor notifications
 ✅ Lab test booking and result updates
 ✅ Pharmacy with wallet, credit checkout, and sold-out item requests
